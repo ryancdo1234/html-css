@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(90, 112, 112);
+    color: white;
+   
+}
+
+h1 {
+    background-color:rgb(92, 156, 156);
+    height: 250px;
+    width: 300px;
+    border-style: solid;
+    color: beige;
+    border-width: 5px;
+    text-align: center;
+    
+    
+
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+ul {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+p:hover {
+    background-color: yellow;
+}
+
